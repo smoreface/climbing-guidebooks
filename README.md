@@ -55,11 +55,11 @@ This dataset is provided as a comma-separated values (CSV) file with the followi
 Given this initially standard and then chaotically deviating methodology, 
 there are certainly gaps in this dataset in terms of:
 
-- Edition coverage. Not all book editions are captured.
-- ISBNs. Not all ISBNs could be identified, and not all books have ISBNs, especially self-published books. Even when the ISBN exists, it might not be clearly documented online.
-- Years. Not all publication years could be identified.
-- Publishers. Not all book publishers could be identified.
-- Editors. Data on editors was collected only when easily available and known.
+- **Edition coverage**. Not all book editions are captured.
+- **ISBNs**. Not all ISBNs could be identified, and not all books have ISBNs, especially self-published books. Even when the ISBN exists, it might not be clearly documented online.
+- **Years**. Not all publication years could be identified.
+- **Publishers**. Not all book publishers could be identified.
+- **Editors**. Data on editors was collected only when easily available and known.
 
 Because this research was conducted using what is available from online retailers, missing information that might be available to book owners was often unable to be verified (the data collectors do own some guidebooks!) . 
 
@@ -91,10 +91,10 @@ There are a lot of gaps in this dataset, and we welcome contributions of:
 
 How you contribute depends on how comfortable you are using GitHub:
 
-- If you're comfortable with GitHub, open a pull request to add or update the data in the CSV file.
-- If you have a GitHub account but don't want to open a pull request, open a GitHub issue with as much detail as possible about the data that you want added.
+- If you're comfortable with GitHub, [open a pull request](https://github.com/smoreface/climbing-guidebooks/compare) to add or update the data in the CSV file.
+- If you have a GitHub account but don't want to open a pull request, [open a GitHub issue](https://github.com/smoreface/climbing-guidebooks/issues/new/choose) with as much detail as possible about the data that you want added.
 
-To ensure data integrity, include verifying information such as an ISBN number, or a photo of a publishing page for the guidebook.
+To ensure data integrity, please include verifying information such as an ISBN number, or a photo of a publishing page for the guidebook.
 
 ## How to cite this dataset
 
