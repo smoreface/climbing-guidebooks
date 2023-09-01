@@ -98,8 +98,11 @@ To ensure data integrity, please include verifying information such as an ISBN n
 
 ## How to cite this dataset
 
+
 Authors: Kimbrough Moore and Sarah Moir
-Title: USA Climbing Guidebook Dataset
+
+Title: Climbing Guidebook for USA Dataset
+
 Year Created: 2023
 
 This dataset uses the MIT license. 
